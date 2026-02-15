@@ -1,12 +1,20 @@
-# Cyber Security Internship - Future Interns
+# Cyber Security Internship - Vulnerability Assessment
 
-This repository contains all tasks and projects completed during my Cyber Security Internship at Future Interns.
+This repository contains a professional vulnerability assessment conducted as part of a Cyber Security Internship task.
 
-## Skills Gained
-- Network Security
-- Vulnerability Assessment
-- Basic Penetration Testing
-- Security Tools
+## Target Website
+http://testphp.vulnweb.com
 
-## Author
-Samiyan Mansuri
+## Assessment Type
+Read-Only / Passive Security Testing
+
+## Tools Used
+- Nmap
+- OWASP ZAP
+- Browser Developer Tools
+
+## Deliverables
+- Vulnerability Assessment Report (PDF)
+- Supporting Evidence Screenshots
+
+This project demonstrates practical skills in vulnerability analysis, risk classification, and professional security reporting.
